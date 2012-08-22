@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{% endblock %}]]></content>
+	<tabTrigger>end</tabTrigger>
+	<scope>text.html</scope>
+	<description>endblock django-template</description>
+</snippet>

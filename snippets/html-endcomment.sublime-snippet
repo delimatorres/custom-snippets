@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[{% endcomment %}]]></content>
+	<tabTrigger>end</tabTrigger>
+	<tabTrigger>sd</tabTrigger>
+	<scope>text.html</scope>
+	<description>endcomment django-template</description>
+</snippet>
