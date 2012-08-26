@@ -2,7 +2,7 @@ custom-snippets
 ================
 
 ### Path to install:
-Snippets can be stored under any package’s folder, but to keep it simple **clone** them to your **Packages** sublime folder.
+Snippets can be stored under any packages folder, but to keep it simple **clone** them to your **Packages** sublime folder.
 
 
 #### 1. Going to a Packages folder.
@@ -14,7 +14,7 @@ Snippets can be stored under any package’s folder, but to keep it simple **clo
 **on ubuntu:**
 
     cd ~/.config/sublime-text-2/Packages
-    p.s: Maybe you need to be sudo to clone then here on ubuntu.
+    p.s: Maybe you need to be sudo to clone on ubuntu.
 
 #### 2. Clone it.
 
