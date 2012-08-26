@@ -2,10 +2,19 @@ custom-snippets
 ================
 
 **Path to install:**<br>
-Snippets can be stored under any package’s folder, but to keep it simple **clone** them to your **Packages/User** sublime folder.
+Snippets can be stored under any package’s folder, but to keep it simple **clone** them to your **Packages** sublime folder.
 
-**on mac:**<br>
-cd ~/Library/Application\\ Support/Sublime\\ Text\\ 2/Packages/User<br>
 
-**on ubuntu:**<br>
-cd ~/.config/sublime-text-2/Packages/User
+## First: going to a Packages folder
+**on mac:**
+
+    cd ~/Library/Application\\ Support/Sublime\\ Text\\ 2/Packages
+
+**on ubuntu:**
+
+    cd ~/.config/sublime-text-2/Packages
+    p.s: Maybe you need to be sudo to clone then here on ubuntu.
+
+## Second: Clone then
+
+  git clone https://github.com/delimatorres/custom-snippets.git    
